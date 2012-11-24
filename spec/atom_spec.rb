@@ -458,6 +458,15 @@ describe Atom do
       it "should have a closing tag on the inspect string" do
         @person.inspect.should == "<Atom::Person name:'Mark Pilgrim' uri:'http://example.org/' email:'f8dy@example.com'>"
       end
+
+      it "should equal an author with the same attributes" do
+        @another_person = Atom::Person.new(
+                            :name  => 'Mark Pilgrim',
+                            :uri   => 'http://example.org/',
+                            :email => 'f8dy@example.com'
+                          )
+        @person.should eql @another_person
+      end
     end
     
     describe Atom::Content do

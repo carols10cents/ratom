@@ -143,7 +143,8 @@ module Atom # :nodoc:
   class Person
     include Xml::Parseable
     element :name, :uri, :email
-   
+    ATTRIBUTES = [:name, :uri, :email]
+
     # Initialize a new person.
     #
     # +o+:: An XML::Reader object or a hash. Valid hash keys are +:name+, +:uri+ and +:email+.
@@ -165,6 +166,18 @@ module Atom # :nodoc:
     
     def inspect
       "<Atom::Person name:'#{name}' uri:'#{uri}' email:'#{email}'>"
+    end
+
+    def attribute_values
+      ATTRIBUTES.map{ |at| send at }
+    end
+
+    def eql?(other)
+      attribute_values == other.attribute_values
+    end
+
+    def hash
+      attribute_values.hash
     end
   end
     
