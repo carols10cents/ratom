@@ -164,7 +164,7 @@ module Atom # :nodoc:
     end
     
     def inspect
-      "<Atom::Person name:'#{name}' uri:'#{uri}' email:'#{email}"
+      "<Atom::Person name:'#{name}' uri:'#{uri}' email:'#{email}'>"
     end
   end
     

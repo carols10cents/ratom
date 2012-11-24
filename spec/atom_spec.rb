@@ -454,6 +454,10 @@ describe Atom do
       it "should have an email address" do
         @person.email.should == 'f8dy@example.com'
       end
+
+      it "should have a closing tag on the inspect string" do
+        @person.inspect.should == "<Atom::Person name:'Mark Pilgrim' uri:'http://example.org/' email:'f8dy@example.com'>"
+      end
     end
     
     describe Atom::Content do
