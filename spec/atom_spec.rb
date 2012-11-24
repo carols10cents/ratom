@@ -488,7 +488,23 @@ describe Atom do
       end
     end
   end
-  
+
+  describe "Feed without a top level author" do
+    before(:all) do
+      @feed = Atom::Feed.new(XML::Reader.string(open("spec/fixtures/ssweeny.xml").read))
+    end
+
+    describe Atom::Feed do
+      it "should be able to get the author from the entry" do
+        @feed.should have(1).unique_authors
+      end
+
+      it "should have the author's name" do
+        @feed.unique_authors.first.name.should == "ssweeny"
+      end
+    end
+  end
+
   describe 'ConformanceTests' do
     describe 'nondefaultnamespace.atom' do
       before(:all) do

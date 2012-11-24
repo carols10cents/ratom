@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="http://ssweeny.net/wp-atom.php"
+  xmlns:activity="http://activitystrea.ms/spec/1.0/"
+xmlns:media="http://purl.org/syndication/atommedia"
+xmlns:poco="http://portablecontacts.net/spec/1.0"
+ >
+	<title type="text">ssweeny.net</title>
+	<subtitle type="text">Mental Meanderings</subtitle>
+
+	<updated>2012-11-07T00:28:55Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://ssweeny.net" />
+	<id>http://ssweeny.net/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://ssweeny.net/feed/atom/" />
+
+	<generator uri="http://wordpress.org/" version="3.4.2">WordPress</generator>
+<link rel="hub" href="http://pubsubhubbub.appspot.com" /><link rel="hub" href="http://superfeedr.com/hubbub" /><link rel='salmon' href='http://ssweeny.net/blog/?salmon=endpoint'/><link rel='http://salmon-protocol.org/ns/salmon-replies' href='http://ssweeny.net/blog/?salmon=endpoint'/><link rel='http://salmon-protocol.org/ns/salmon-mention' href='http://ssweeny.net/blog/?salmon=endpoint'/>
+  <entry>
+		<author>
+			<name>ssweeny</name>
+						<uri>http://www.ssweeny.net</uri>
+					</author>
+		<title type="html"><![CDATA[Who&#8217;s Ready for Copenhagen?]]></title>
+		<link rel="alternate" type="text/html" href="http://ssweeny.net/2012/10/whos-ready-for-copenhagen/" />
+		<id>http://ssweeny.net/?p=1431</id>
+		<updated>2012-10-26T20:36:58Z</updated>
+		<published>2012-10-26T20:21:30Z</published>
+		<category scheme="http://ssweeny.net" term="Computer Geekery" /><category scheme="http://ssweeny.net" term="Ubuntu" /><category scheme="http://ssweeny.net" term="Nexus 7" /><category scheme="http://ssweeny.net" term="UDS" />		<summary type="html"><![CDATA[This guy (and his Nexus 7)!]]></summary>
+		<content type="html" xml:base="http://ssweeny.net/2012/10/whos-ready-for-copenhagen/"><![CDATA[<p><a href="http://ssweeny.net/2012/10/whos-ready-for-copenhagen/20121026_003/" rel="attachment wp-att-1434"><img class="aligncenter size-large wp-image-1434" title="Ubuntu on Nexus 7" src="http://ssweeny.net/blog/wp-content/uploads/2012/10/20121026_003-1024x769.jpg" alt="Ubuntu on Nexus 7" width="584" height="438" /></a>This guy (and his <a title="Ubuntu on Nexus 7 wiki" href="https://wiki.ubuntu.com/Nexus7" target="_blank">Nexus 7</a>)!</p>
+]]></content>
+
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+      <id>http://ssweeny.net/?p=1431</id>
+      <title type="html"><![CDATA[Who&#8217;s Ready for Copenhagen?]]></title>
+      <summary type="html"><![CDATA[This guy (and his Nexus 7)!]]></summary>
+      <link rel="alternate" type="text/html" href="http://ssweeny.net/2012/10/whos-ready-for-copenhagen/" />
+    </activity:object>
+		<link rel="replies" type="text/html" href="http://ssweeny.net/2012/10/whos-ready-for-copenhagen/#comments" thr:count="1"/>
+		<link rel="replies" type="application/atom+xml" href="http://ssweeny.net/2012/10/whos-ready-for-copenhagen/feed/atom/" thr:count="1"/>
+		<thr:total>1</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>ssweeny</name>
+						<uri>http://www.ssweeny.net</uri>
+					</author>
+		<title type="html"><![CDATA[Okay, just a little pinprick]]></title>
+		<link rel="alternate" type="text/html" href="http://ssweeny.net/2012/10/okay-just-a-little-pinprick/" />
+		<id>http://ssweeny.net/?p=1422</id>
+		<updated>2012-10-22T18:46:11Z</updated>
+		<published>2012-10-22T18:44:00Z</published>
+		<category scheme="http://ssweeny.net" term="General Nonsense" /><category scheme="http://ssweeny.net" term="Pink Floyd" /><category scheme="http://ssweeny.net" term="UDS" /><category scheme="http://ssweeny.net" term="vaccinations" />		<summary type="html"><![CDATA[Yesterday I stopped off to get a flu shot, mostly as a precaution for UDS (since I no longer ride the bus regularly my immune system isn&#8217;t what it once was). I made polite conversation with the pharmacist as she &#8230; <a href="http://ssweeny.net/2012/10/okay-just-a-little-pinprick/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+		<content type="html" xml:base="http://ssweeny.net/2012/10/okay-just-a-little-pinprick/"><![CDATA[<p>Yesterday I stopped off to get a flu shot, mostly as a precaution for UDS (since I no longer ride the bus regularly my immune system isn&#8217;t what it once was). I made polite conversation with the pharmacist as she gave me the shot, but because my mother raised me right, these lines were running through my head the way they have every time I&#8217;ve gotten a shot since I was a kid:</p>
+<blockquote><p>Okay<br />
+Just a little pinprick<br />
+There&#8217;ll be no more aaaaaaaah!<br />
+But you may feel a little sick</p>
+<p>Can you stand up?<br />
+I do believe it&#8217;s working good<br />
+That&#8217;ll keep you going through the show<br />
+Come on it&#8217;s time to go</p></blockquote>
+<p><iframe src="http://www.youtube.com/embed/JWnapx502uQ" frameborder="0" width="420" height="315"></iframe></p>
+]]></content>
+
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+      <id>http://ssweeny.net/?p=1422</id>
+      <title type="html"><![CDATA[Okay, just a little pinprick]]></title>
+      <summary type="html"><![CDATA[Yesterday I stopped off to get a flu shot, mostly as a precaution for UDS (since I no longer ride the bus regularly my immune system isn&#8217;t what it once was). I made polite conversation with the pharmacist as she &#8230; <a href="http://ssweeny.net/2012/10/okay-just-a-little-pinprick/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+      <link rel="alternate" type="text/html" href="http://ssweeny.net/2012/10/okay-just-a-little-pinprick/" />
+    </activity:object>
+		<link rel="replies" type="text/html" href="http://ssweeny.net/2012/10/okay-just-a-little-pinprick/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://ssweeny.net/2012/10/okay-just-a-little-pinprick/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>ssweeny</name>
+						<uri>http://www.ssweeny.net</uri>
+					</author>
+		<title type="html"><![CDATA[Ubuntu 12.10 Released!]]></title>
+		<link rel="alternate" type="text/html" href="http://ssweeny.net/2012/10/ubuntu-12-10-released/" />
+		<id>http://ssweeny.net/?p=1414</id>
+		<updated>2012-10-18T19:25:51Z</updated>
+		<published>2012-10-18T19:25:51Z</published>
+		<category scheme="http://ssweeny.net" term="Computer Geekery" /><category scheme="http://ssweeny.net" term="Ubuntu" /><category scheme="http://ssweeny.net" term="Quantal Quetzal" />		<summary type="html"><![CDATA[I want to congratulate my friends and colleagues at Canonical and in the Ubuntu community on another great release. 12.04 was a tough act to follow but the spit and polish they put into 12.10 is really showing. Don&#8217;t just &#8230; <a href="http://ssweeny.net/2012/10/ubuntu-12-10-released/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+		<content type="html" xml:base="http://ssweeny.net/2012/10/ubuntu-12-10-released/"><![CDATA[<p style="text-align: left;"><a href="http://www.ubuntu.com" rel="attachment wp-att-1415"><img class=" wp-image-1415 aligncenter" title="12.10 Release Image" src="http://ssweeny.net/blog/wp-content/uploads/2012/10/windows8pain.png" alt="Avoid the pain of Windows 8" width="902" height="393" /></a>I want to congratulate my friends and colleagues at <a title="Canonical Ltd." href="http://www.canonical.com/" target="_blank">Canonical</a> and in the <a title="Ubuntu" href="http://www.ubuntu.com/" target="_blank">Ubuntu</a> community on another great release. 12.04 was a tough act to follow but the spit and polish they put into 12.10 is really showing.</p>
+<p style="text-align: left;">Don&#8217;t just take my word for it, <a title="Ubuntu download page" href="http://www.ubuntu.com/download" target="_blank">grab it</a> and try for yourself!</p>
+<p style="text-align: left;">I&#8217;ve already got one patch in line for the next Ubuntu release, 13.04 (codename <a title="Raring Ringtail" href="http://www.markshuttleworth.com/archives/1195" target="_blank">Raring Ringtail</a>) and I hope it&#8217;s just the first of many. Let&#8217;s do this thing.</p>
+]]></content>
+
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+      <id>http://ssweeny.net/?p=1414</id>
+      <title type="html"><![CDATA[Ubuntu 12.10 Released!]]></title>
+      <summary type="html"><![CDATA[I want to congratulate my friends and colleagues at Canonical and in the Ubuntu community on another great release. 12.04 was a tough act to follow but the spit and polish they put into 12.10 is really showing. Don&#8217;t just &#8230; <a href="http://ssweeny.net/2012/10/ubuntu-12-10-released/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+      <link rel="alternate" type="text/html" href="http://ssweeny.net/2012/10/ubuntu-12-10-released/" />
+    </activity:object>
+		<link rel="replies" type="text/html" href="http://ssweeny.net/2012/10/ubuntu-12-10-released/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://ssweeny.net/2012/10/ubuntu-12-10-released/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>ssweeny</name>
+						<uri>http://www.ssweeny.net</uri>
+					</author>
+		<title type="html"><![CDATA[Adventures in the Laurel Highlands]]></title>
+		<link rel="alternate" type="text/html" href="http://ssweeny.net/2012/07/adventures-in-the-laurel-highlands/" />
+		<id>http://ssweeny.net/?p=1379</id>
+		<updated>2012-08-02T23:55:26Z</updated>
+		<published>2012-07-30T04:05:04Z</published>
+		<category scheme="http://ssweeny.net" term="General Nonsense" /><category scheme="http://ssweeny.net" term="anniversary" /><category scheme="http://ssweeny.net" term="Fort Necessity" /><category scheme="http://ssweeny.net" term="Kentuck Knob" /><category scheme="http://ssweeny.net" term="Laurel Caverns" /><category scheme="http://ssweeny.net" term="Laurel Highlands" /><category scheme="http://ssweeny.net" term="Nemacolin Woodlands" />		<summary type="html"><![CDATA[Emily and I spent this past weekend celebrating our anniversary in the beautiful Laurel Highlands of southwestern Pennsylvania. Friday after work we drove down to Nemacolin Woodlands, stopping for dinner at a nice Irish pub in Uniontown with an island &#8230; <a href="http://ssweeny.net/2012/07/adventures-in-the-laurel-highlands/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+		<content type="html" xml:base="http://ssweeny.net/2012/07/adventures-in-the-laurel-highlands/"><![CDATA[<p>Emily and I spent this past weekend celebrating our anniversary in the beautiful Laurel Highlands of southwestern Pennsylvania.</p>
+<p>Friday after work we drove down to <a href="http://www.nemacolin.com/" target="_blank">Nemacolin Woodlands</a>, stopping for dinner at a nice Irish pub in Uniontown with an island decor (yes, you read that right).</p>
+<p>We arrived at Nemacolin to find the usual fancy hotel trappings that make me mildly uncomfortable like valet parking and a gentleman whose sole purpose in this life is to make sure that we don&#8217;t carry our own bags to our room (where that guy was when we were ready to leave remains a mystery). After a quick drink at the hotel bar we retreated to our room to watch the end of the Olympics opening ceremony.</p>
+<div class="wp-caption alignnone" style="width: 510px"><a href="http://farm9.static.flickr.com/8143/7673755748_1a0175f618.jpg"><img src="http://farm9.static.flickr.com/8143/7673755748_1a0175f618.jpg" alt="Nemacolin Woodlands Balcony I" width="500" height="375" /></a><p class="wp-caption-text">The view from our balcony did not suck.</p></div>
+<p>We woke up early on Saturday and had coffee on the balcony before grabbing breakfast and heading out for a day of fun and excitement. We called for a shuttle to the &#8220;Adventure Center&#8221; to engage in a bit of zip lining fun, only to have the shuttle take the longest possible route to the AC, visiting just about every other part of the resort before depositing us at our destination.</p>
+<p>We got ourselves signed in and harnessed, then went up to the top of the ski slope where the zip line was set up. The family ahead of us in line was pretty amusing, with the stereotypical nervous mom and the teenage son who decided to go down backwards.</p>
+<p>The zip line itself was lots of fun, as I hope you can see:</p>
+<p><object type="application/x-shockwave-flash" width="500" height="375" data="http://www.flickr.com/apps/video/stewart.swf?v=109786" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="flashvars" value="intl_lang=en-us&#038;photo_secret=bd1fa9ea75&#038;photo_id=7673980904&#038;flickr_show_info_box=true"></param><param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=109786"></param><param name="bgcolor" value="#000000"></param><param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=109786" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&#038;photo_secret=bd1fa9ea75&#038;photo_id=7673980904&#038;flickr_show_info_box=true" height="375" width="500"></embed></object></p>
+<p>(marvel at my awesome camera work).</p>
+<p>By the time Emily and I had finished our zips we had to grab another shuttle back to the hotel and change before heading to what for me was the highlight of the trip, spelunking in <a href="http://www.laurelcaverns.com/" target="_blank">Laurel Caverns</a>.</p>
+<p>We opted for the Lower Caving Tour which goes about 46 stories beneath the mountain (we didn&#8217;t get quite that far down for lack of time). They told us that the caves were about 50°F year-round and that long pants and sleeves were essential (both for temperature and because you get scraped up on the rocks). Then they packed our tour group in the hottest room they could find where we waited for our guide to distribute helmets and give us the safety talk.</p>
+<p>I can&#8217;t stress enough how much fun the caving was. Climbing over and under rocks, crawling through a little stream, and marvelling at the graffiti, some of which was from the 19th century.</p>
+<div class="wp-caption alignnone" style="width: 510px"><a href="http://farm8.static.flickr.com/7124/7673821182_ec2df6ef89.jpg"><img title="Cave Graffiti" src="http://farm8.static.flickr.com/7124/7673821182_ec2df6ef89.jpg" alt="Cave Interior Flash" width="500" height="375" /></a><p class="wp-caption-text">Some of that graffiti was burned into the rock with a candle and a lot of patience.</p></div>
+<p>At the bottom of our descent the guide had us do a little exercise where everyone shut off their lights leaving us in total darkness. We then had to climb up and around the rock in the picture above using only our hands to guide us. It reminded me quite a bit of the <a title="11 May 2011 (UDS-O Day 3)" href="http://ssweeny.net/2011/05/11-may-2011-uds-o-day-3/">Invisible Exhibit</a> in Budapest.</p>
+<p>Contrary to what you might believe, the hardest part of the trip was not all the climbing and crawling. Rather it was climbing and crawling up 40 or so stories after spending two hours climbing and crawling down them. The final 17 or so were strangely extra brutal because rather than slowly climbing over boulders we had to briskly walk up a 30° ramp the whole way.</p>
+<p>Exhausted and filthy, Emily and I stopped in the gift shop for some ice cream and we took our dirty selves back to the hotel to clean up for dinner.</p>
+<div class="wp-caption alignnone" style="width: 385px"><a href="http://farm9.static.flickr.com/8002/7673829594_e4d03ffd53.jpg"><img title="Post-caving treat" src="http://farm9.static.flickr.com/8002/7673829594_e4d03ffd53.jpg" alt="Post-caving treat" width="375" height="500" /></a><p class="wp-caption-text">My helmet hair and I opted for the Batman treat. Of course.</p></div>
+<div class="wp-caption alignnone" style="width: 385px"><a href="http://farm9.static.flickr.com/8424/7673827490_0080c3b510.jpg"><img title="Dirty Picture of Emily" src="http://farm9.static.flickr.com/8424/7673827490_0080c3b510.jpg" alt="Dirty Picture of Emily" width="375" height="500" /></a><p class="wp-caption-text">This is the dirtiest picture of my wife I will ever post to the Internet.</p></div>
+<p>Dinner was at the historic <a href="http://www.stonehouseinn.com/" target="_blank">Stone House Inn</a>, where we sampled some calamari at the bar which was, I must admit, far too good for an appetizer in a bar in the middle of nowhere in a land-locked state. Dinner was prime rib for myself and BBQ ribs for my better half. The food was excellent and the feel of the place was very nice. They were going for a country kitchen motif, which I thought they pulled off very nicely.</p>
+<p>After dinner we went back to the hotel and promptly passed out from all the excitement.</p>
+<p>Sunday was a much more laid-back day. After a quick breakfast we checked out of the hotel and went to investigate the wildlife habitat trail on Nemacolin&#8217;s grounds.</p>
+<div class="wp-caption alignnone" style="width: 510px"><a title="Lazy Lion by Emily OS, on Flickr" href="http://www.flickr.com/photos/eruditorum/7673467628/"><img src="http://farm9.staticflickr.com/8018/7673467628_180d85a6ec.jpg" alt="Lazy Lion" width="500" height="334" /></a><p class="wp-caption-text">We find our cats in the same pose around the house</p></div>
+<p>They have lions, tigers, and bears (don&#8217;t even think about it), along with a plethora of sheep and even a llama.</p>
+<div class="wp-caption alignnone" style="width: 510px"><a title="Lounging Llama by Emily OS, on Flickr" href="http://www.flickr.com/photos/eruditorum/7682569806/"><img title="Lounging Llama" src="http://farm9.staticflickr.com/8157/7682569806_273b84f43e.jpg" alt="Lounging Llama" width="500" height="334" /></a><p class="wp-caption-text">Proof of llama.</p></div>
+<p>We also stopped by a small building which housed a few antique cars. They were pretty cool but my favorite was actually an 84 Lumber motorcycle.</p>
+<div class="wp-caption alignnone" style="width: 510px"><a href="http://farm9.static.flickr.com/8002/7673852772_8a34f6762d.jpg"><img title="84 Lumber Motorcycle" src="http://farm9.static.flickr.com/8002/7673852772_8a34f6762d.jpg" alt="84 Lumber Motorcycle" width="500" height="375" /></a><p class="wp-caption-text">Notice the tool belt saddle and the hammer spokes. So ridiculous that it comes right back around to awesome.</p></div>
+<p>When we&#8217;d finished checking Nemacolin&#8217;s grounds we still had some time to kill so we swung by <a href="http://www.nps.gov/fone/index.htm" target="_blank">Fort Necessity</a>, which is not only the site of George Washington&#8217;s first loss in battle (though to be fair he started it) but also the site where the French and Indian War (Seven Years&#8217; War if you&#8217;re nasty, or European) started. These two facts are related.</p>
+<div class="wp-caption alignnone" style="width: 510px"><a title="Fort Necessity (recreation) by Emily OS, on Flickr" href="http://www.flickr.com/photos/eruditorum/7682402094/"><img title="Fort Necessity (recreation)" src="http://farm8.staticflickr.com/7126/7682402094_718a304dbc.jpg" alt="Fort Necessity (recreation)" width="500" height="334" /></a><p class="wp-caption-text">Some fort.</p></div>
+<p>We finished up our vacation with a tour of <a href="http://www.kentuckknob.com/" target="_blank">Kentuck Knob</a>, which is the &#8220;other&#8221; Frank Lloyd Wright house in the Laurel Highlands. It was built for a much less wealthy family than <a href="http://fallingwater.org/" target="_blank">Fallingwater</a>, and consequently it&#8217;s much more modest looking and, I think, more practical as an real living space (to be fair Fallingwater was designed as a vacation home).</p>
+<div class="wp-caption alignnone" style="width: 510px"><a title="Kentuck Knob by Emily OS, on Flickr" href="http://www.flickr.com/photos/eruditorum/7681670254/"><img title="Kentuck Knob" src="http://farm9.staticflickr.com/8424/7681670254_7b8fc32870.jpg" alt="Kentuck Knob" width="500" height="334" /></a><p class="wp-caption-text">The &#8220;Prow&#8221; of Kentuck Knob</p></div>
+<p>Kentuck Knob also has a <a href="http://www.kentuckknob.com/sculptures.html" target="_blank">sculpture garden</a> on the grounds, the pieces in which were added by the current owner, Lord Palumbo.</p>
+<p>After the tour we made for home, stopping once again in Uniontown for dinner. This time in a nice little Italian place called <a href="http://melonisrestaurant.com/" target="_blank">Meloni&#8217;s</a>.</p>
+<p>I&#8217;ve posted more pictures of the trip <a href="http://www.flickr.com/photos/coebabelghoti/sets/72157630814277588/" target="_blank">here</a>, and Emily put hers up <a href="http://www.flickr.com/photos/eruditorum/sets/72157630821108116/" target="_blank">here</a>.</p>
+<p>&nbsp;</p>
+]]></content>
+
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+      <id>http://ssweeny.net/?p=1379</id>
+      <title type="html"><![CDATA[Adventures in the Laurel Highlands]]></title>
+      <summary type="html"><![CDATA[Emily and I spent this past weekend celebrating our anniversary in the beautiful Laurel Highlands of southwestern Pennsylvania. Friday after work we drove down to Nemacolin Woodlands, stopping for dinner at a nice Irish pub in Uniontown with an island &#8230; <a href="http://ssweeny.net/2012/07/adventures-in-the-laurel-highlands/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+      <link rel="alternate" type="text/html" href="http://ssweeny.net/2012/07/adventures-in-the-laurel-highlands/" />
+    </activity:object>
+		<link rel="replies" type="text/html" href="http://ssweeny.net/2012/07/adventures-in-the-laurel-highlands/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://ssweeny.net/2012/07/adventures-in-the-laurel-highlands/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>ssweeny</name>
+						<uri>http://www.ssweeny.net</uri>
+					</author>
+		<title type="html"><![CDATA[Best $60 I Ever Spent]]></title>
+		<link rel="alternate" type="text/html" href="http://ssweeny.net/2012/07/best-60-i-ever-spent/" />
+		<id>http://ssweeny.net/?p=1355</id>
+		<updated>2012-07-24T04:52:49Z</updated>
+		<published>2012-07-24T03:34:02Z</published>
+		<category scheme="http://ssweeny.net" term="General Nonsense" /><category scheme="http://ssweeny.net" term="Skyrim" /><category scheme="http://ssweeny.net" term="video games" />		<summary type="html"><![CDATA[I just finished the main quest line in Skyrim. I bought the game around Christmas and have been playing it a bit at a time since then. It took almost 157 hours of playtime to finish (including side quests, which &#8230; <a href="http://ssweeny.net/2012/07/best-60-i-ever-spent/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+		<content type="html" xml:base="http://ssweeny.net/2012/07/best-60-i-ever-spent/"><![CDATA[<div class="wp-caption aligncenter" style="width: 510px"><a title="Arrow to the knee?  Not today. by John &quot;Pathfinder&quot; Lester, on Flickr" href="http://www.flickr.com/photos/pathfinderlinden/6994583218/"><img src="http://farm8.staticflickr.com/7271/6994583218_e95a526ca9.jpg" alt="Arrow to the knee?  Not today." width="500" height="364" /></a><p class="wp-caption-text">Photo Credit: <a href="http://www.flickr.com/photos/pathfinderlinden/">John &#8220;Pathfinder&#8221; Lester</a></p></div>
+<p style="text-align: center;">
+<p>I just finished the main quest line in <a href="http://en.wikipedia.org/wiki/Skyrim" target="_blank"><em>Skyrim</em></a>. I bought the game around Christmas and have been playing it a bit at a time since then. It took almost 157 hours of playtime to finish (including side quests, which I am pretty obsessive about), which works out to about $0.38 per hour of entertainment. Emily played through it too with a similar hour count, which just about halves the cost per hour. Hard to find a better deal than that.</p>
+<p>Now, maybe I can find something more productive to do with my time.</p>
+<p>&#8230; I doubt it.</p>
+]]></content>
+
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+      <id>http://ssweeny.net/?p=1355</id>
+      <title type="html"><![CDATA[Best $60 I Ever Spent]]></title>
+      <summary type="html"><![CDATA[I just finished the main quest line in Skyrim. I bought the game around Christmas and have been playing it a bit at a time since then. It took almost 157 hours of playtime to finish (including side quests, which &#8230; <a href="http://ssweeny.net/2012/07/best-60-i-ever-spent/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+      <link rel="alternate" type="text/html" href="http://ssweeny.net/2012/07/best-60-i-ever-spent/" />
+    </activity:object>
+		<link rel="replies" type="text/html" href="http://ssweeny.net/2012/07/best-60-i-ever-spent/#comments" thr:count="2"/>
+		<link rel="replies" type="application/atom+xml" href="http://ssweeny.net/2012/07/best-60-i-ever-spent/feed/atom/" thr:count="2"/>
+		<thr:total>2</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>ssweeny</name>
+						<uri>http://www.ssweeny.net</uri>
+					</author>
+		<title type="html"><![CDATA[Nexus 7]]></title>
+		<link rel="alternate" type="text/html" href="http://ssweeny.net/2012/07/nexus-7/" />
+		<id>http://ssweeny.net/?p=1338</id>
+		<updated>2012-07-18T14:05:46Z</updated>
+		<published>2012-07-18T02:36:24Z</published>
+		<category scheme="http://ssweeny.net" term="Computer Geekery" /><category scheme="http://ssweeny.net" term="General Nonsense" /><category scheme="http://ssweeny.net" term="Android" /><category scheme="http://ssweeny.net" term="Google+" /><category scheme="http://ssweeny.net" term="Nexus" /><category scheme="http://ssweeny.net" term="Nexus 7" /><category scheme="http://ssweeny.net" term="Rifftrax" />		<summary type="html"><![CDATA[I’ve never been a huge Android fan, preferring more “open” or “Capital-F Free” systems like Maemo. However after watching Maemo and its free siblings being consigned to the bit bucket one by one I have to admit that Android is &#8230; <a href="http://ssweeny.net/2012/07/nexus-7/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+		<content type="html" xml:base="http://ssweeny.net/2012/07/nexus-7/"><![CDATA[<div>
+<p>I’ve never been a huge Android fan, preferring more “open” or “Capital-F Free” systems like <a title="Maemo on Wikipedia" href="https://en.wikipedia.org/wiki/Maemo" target="_blank">Maemo</a>. However after watching Maemo and its free siblings being consigned to the bit bucket one by one I have to admit that Android is looking more and more attractive.</p>
+<p>With that in mind I pre-ordered the <a title="Nexus 7" href="http://www.google.com/nexus/#/7" target="_blank">Google Nexus 7</a> on the day it was announced and it finally arrived this afternoon. I’ve had a chance to play with it a bit and I must say I’m very impressed.</p>
+<p>I have a few thoughts about what I’ve seen so far.</p>
+<ul>
+<li>I’ve never been a fan of onscreen keyboards and while the Jelly Bean incarnation isn’t bad for quick IMs or status updates, typing something longer (like this post) is still rather painful. I think a setup with a Bluetooth keyboard will be a necessity for any serious creation effort on this device.</li>
+<li>The fonts on this thing are the most readable by far of any device I’ve seen. I already prefer using the N7 to catch up on Google Reader over my desktop and laptop machines.</li>
+<li>The N7 is perfect for reading/chatting/looking stuff up from the couch while watching TV, which is a primary use case I was thinking of when I bought the thing.</li>
+<li>The WordPress app for Android suffers the same annoyance as the Maemo version, which is the combination of a limited keyboard with an editor that doesn’t help you out much. It sucks to have to type a bunch of HTML manually on a phone/on-screen keyboard because they don’t give you shortcut buttons beyond bold/italic/underline. As I said above a real keyboard is going to be a must for writing anything longer than a haiku.</li>
+<li>The N7 comes with a copy of <em>Transformers: Dark of the Moon</em> but not the accompanying <a title="Transformers: Dark of the Moon on Rifftrax" href="http://www.rifftrax.com/rifftrax/transformers-dark-moon" target="_blank">Rifftrax</a>. way to drop the ball, Google.</li>
+</ul>
+</div>
+]]></content>
+
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+      <id>http://ssweeny.net/?p=1338</id>
+      <title type="html"><![CDATA[Nexus 7]]></title>
+      <summary type="html"><![CDATA[I’ve never been a huge Android fan, preferring more “open” or “Capital-F Free” systems like Maemo. However after watching Maemo and its free siblings being consigned to the bit bucket one by one I have to admit that Android is &#8230; <a href="http://ssweeny.net/2012/07/nexus-7/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+      <link rel="alternate" type="text/html" href="http://ssweeny.net/2012/07/nexus-7/" />
+    </activity:object>
+		<link rel="replies" type="text/html" href="http://ssweeny.net/2012/07/nexus-7/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://ssweeny.net/2012/07/nexus-7/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>ssweeny</name>
+						<uri>http://www.ssweeny.net</uri>
+					</author>
+		<title type="html"><![CDATA[The Perils of Disposable Income]]></title>
+		<link rel="alternate" type="text/html" href="http://ssweeny.net/2012/07/the-perils-of-disposable-income/" />
+		<id>http://ssweeny.net/?p=1327</id>
+		<updated>2012-07-14T04:34:11Z</updated>
+		<published>2012-07-14T04:34:03Z</published>
+		<category scheme="http://ssweeny.net" term="General Nonsense" /><category scheme="http://ssweeny.net" term="impluse purchases" /><category scheme="http://ssweeny.net" term="junk sculptures" /><category scheme="http://ssweeny.net" term="robots" />		<summary type="html"><![CDATA[One of the problems with having a bit of disposable income is that occasionally you will head to a Gallery Crawl, peruse some of the vendor stalls, and end up coming home with one of these: This baby was made &#8230; <a href="http://ssweeny.net/2012/07/the-perils-of-disposable-income/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+		<content type="html" xml:base="http://ssweeny.net/2012/07/the-perils-of-disposable-income/"><![CDATA[<p>One of the problems with having a bit of disposable income is that occasionally you will head to a <a title="Gallery Crawl website" href="http://trustarts.culturaldistrict.org/event/2522/gallery-crawl-in-the-cultural-district" target="_blank">Gallery Crawl</a>, peruse some of the vendor stalls, and end up coming home with one of these:</p>
+<div id="attachment_1328" class="wp-caption aligncenter" style="width: 594px"><a href="http://ssweeny.net/2012/07/the-perils-of-disposable-income/dsc02815/" rel="attachment wp-att-1328"><img class=" wp-image-1328 " title="Coffee Can Robot" src="http://ssweeny.net/blog/wp-content/uploads/2012/07/DSC02815-1024x1024.png" alt="Coffee Can Robot" width="584" height="584" /></a><p class="wp-caption-text">Isn&#8217;t this just the cutest junk sculpture you&#8217;ve ever seen?</p></div>
+<p>This baby was made by <a title="Jones Robo-Works" href="http://jonesrobo-works.com/index.html" target="_blank">Don L. Jones</a>, whose work has been seen quite a bit around Pittsburgh lately. I remember seeing his <a title="Robots" href="http://jonesrobo-works.com/robots.htm" target="_blank">Recycling Bots</a> at the Three Rivers Arts Festival this year and thinking I wanted to bring one home. This time he had a little stall up at one of the pop-up markets at the Gallery Crawl and I decided to make my dream a reality (after getting clearance from my very understanding wife).</p>
+<p>A couple of our friends also came away with a robot that was a bit squatter made from a single tea tin and some similar candlestick parts and we had a grand old time walking to the bar as a big group with two little robots in tow.</p>
+<p>The big question now is, what do we name it? We welcome any suggestions.</p>
+]]></content>
+
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+      <id>http://ssweeny.net/?p=1327</id>
+      <title type="html"><![CDATA[The Perils of Disposable Income]]></title>
+      <summary type="html"><![CDATA[One of the problems with having a bit of disposable income is that occasionally you will head to a Gallery Crawl, peruse some of the vendor stalls, and end up coming home with one of these: This baby was made &#8230; <a href="http://ssweeny.net/2012/07/the-perils-of-disposable-income/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></summary>
+      <link rel="alternate" type="text/html" href="http://ssweeny.net/2012/07/the-perils-of-disposable-income/" />
+    </activity:object>
+		<link rel="replies" type="text/html" href="http://ssweeny.net/2012/07/the-perils-of-disposable-income/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://ssweeny.net/2012/07/the-perils-of-disposable-income/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>ssweeny</name>
+						<uri>http://www.ssweeny.net</uri>
+					</author>
+		<title type="html"><![CDATA[How awesome is my wife?]]></title>
+		<link rel="alternate" type="text/html" href="http://ssweeny.net/2012/07/how-awesome-is-my-wife/" />
+		<id>http://ssweeny.net/?p=1312</id>
+		<updated>2012-07-10T01:40:59Z</updated>
+		<published>2012-07-10T01:40:59Z</published>
+		<category scheme="http://ssweeny.net" term="General Nonsense" />		<summary type="html"><![CDATA[Emily is finally back from her trip to China, and she brought me the one thing that she knew I&#8217;d be almost as excited to see as her&#8230; BEER!]]></summary>
+		<content type="html" xml:base="http://ssweeny.net/2012/07/how-awesome-is-my-wife/"><![CDATA[<p>Emily is finally back from her trip to China, and she brought me the one thing that she knew I&#8217;d be almost as excited to see as her&#8230; BEER!</p>
+
+<a href='http://ssweeny.net/2012/07/how-awesome-is-my-wife/dsc02810/' title='Harbin Beer'><img width="112" height="150" src="http://ssweeny.net/blog/wp-content/uploads/2012/07/DSC02810-112x150.png" class="attachment-thumbnail" alt="Harbin Beer" title="Harbin Beer" /></a>
+<a href='http://ssweeny.net/2012/07/how-awesome-is-my-wife/dsc02811/' title='Tsingtao'><img width="112" height="150" src="http://ssweeny.net/blog/wp-content/uploads/2012/07/DSC02811-112x150.png" class="attachment-thumbnail" alt="Tsingtao" title="Tsingtao" /></a>
+<a href='http://ssweeny.net/2012/07/how-awesome-is-my-wife/dsc02812/' title='Guinness Foreign Extra'><img width="112" height="150" src="http://ssweeny.net/blog/wp-content/uploads/2012/07/DSC02812-112x150.png" class="attachment-thumbnail" alt="Guinness Foreign Extra" title="Guinness Foreign Extra" /></a>
+<a href='http://ssweeny.net/2012/07/how-awesome-is-my-wife/dsc02814/' title='Back of Guinness bottle'><img width="112" height="150" src="http://ssweeny.net/blog/wp-content/uploads/2012/07/DSC02814-112x150.png" class="attachment-thumbnail" alt="Back of Guinness bottle" title="Back of Guinness bottle" /></a>
+
+]]></content>
+
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+      <id>http://ssweeny.net/?p=1312</id>
+      <title type="html"><![CDATA[How awesome is my wife?]]></title>
+      <summary type="html"><![CDATA[Emily is finally back from her trip to China, and she brought me the one thing that she knew I&#8217;d be almost as excited to see as her&#8230; BEER!]]></summary>
+      <link rel="alternate" type="text/html" href="http://ssweeny.net/2012/07/how-awesome-is-my-wife/" />
+    </activity:object>
+		<link rel="replies" type="text/html" href="http://ssweeny.net/2012/07/how-awesome-is-my-wife/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://ssweeny.net/2012/07/how-awesome-is-my-wife/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>ssweeny</name>
+						<uri>http://www.ssweeny.net</uri>
+					</author>
+		<title type="html"><![CDATA[Can you jam with the console cowboys in Cyberspace?]]></title>
+		<link rel="alternate" type="text/html" href="http://ssweeny.net/2012/06/can-you-jam-with-the-console-cowboys-in-cyberspace/" />
+		<id>http://www.ssweeny.net/?p=1302</id>
+		<updated>2012-06-20T02:17:56Z</updated>
+		<published>2012-06-20T01:36:16Z</published>
+		<category scheme="http://ssweeny.net" term="Computer Geekery" /><category scheme="http://ssweeny.net" term="General Nonsense" /><category scheme="http://ssweeny.net" term="cyberpunk" /><category scheme="http://ssweeny.net" term="Neuromancer" />		<summary type="html"><![CDATA[I&#8217;m currently re-reading William Gibson&#8217;s Neuromancer as part of a weird cyberpunk binge I&#8217;ve been on recently, so this really spoke to me. Yes that is Julia Stiles with the totally-not-fake-and-ridiculous nose ring. (h/t to Chris Blizzard)]]></summary>
+		<content type="html" xml:base="http://ssweeny.net/2012/06/can-you-jam-with-the-console-cowboys-in-cyberspace/"><![CDATA[<p>I&#8217;m currently re-reading William Gibson&#8217;s <em><a href="https://en.wikipedia.org/wiki/Neuromancer" target="_blank">Neuromancer</a></em> as part of a weird cyberpunk binge I&#8217;ve been on recently, so this really spoke to me.</p>
+<p><iframe width="584" height="438" src="http://www.youtube.com/embed/bLlj_GeKniA?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Yes that is Julia Stiles with the totally-not-fake-and-ridiculous nose ring.</p>
+<p>(<em>h/t to <a href="http://www.0xdeadbeef.com/weblog/2012/06/three-videos-from-the-internet/" target="_blank">Chris Blizzard</a></em>)</p>
+]]></content>
+
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+      <id>http://www.ssweeny.net/?p=1302</id>
+      <title type="html"><![CDATA[Can you jam with the console cowboys in Cyberspace?]]></title>
+      <summary type="html"><![CDATA[I&#8217;m currently re-reading William Gibson&#8217;s Neuromancer as part of a weird cyberpunk binge I&#8217;ve been on recently, so this really spoke to me. Yes that is Julia Stiles with the totally-not-fake-and-ridiculous nose ring. (h/t to Chris Blizzard)]]></summary>
+      <link rel="alternate" type="text/html" href="http://ssweeny.net/2012/06/can-you-jam-with-the-console-cowboys-in-cyberspace/" />
+    </activity:object>
+		<link rel="replies" type="text/html" href="http://ssweeny.net/2012/06/can-you-jam-with-the-console-cowboys-in-cyberspace/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://ssweeny.net/2012/06/can-you-jam-with-the-console-cowboys-in-cyberspace/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>ssweeny</name>
+						<uri>http://www.ssweeny.net</uri>
+					</author>
+		<title type="html"><![CDATA[First of May]]></title>
+		<link rel="alternate" type="text/html" href="http://ssweeny.net/2012/05/first-of-may/" />
+		<id>http://www.ssweeny.net/?p=1292</id>
+		<updated>2012-05-01T21:21:01Z</updated>
+		<published>2012-05-01T21:21:01Z</published>
+		<category scheme="http://ssweeny.net" term="General Nonsense" />		<summary type="html"><![CDATA[Spring is in the air! (NSFW lyrics)]]></summary>
+		<content type="html" xml:base="http://ssweeny.net/2012/05/first-of-may/"><![CDATA[<p>Spring is in the air! (NSFW lyrics)</p>
+<p><iframe width="584" height="438" src="http://www.youtube.com/embed/kCbD8nsxcd8?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+]]></content>
+
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+      <id>http://www.ssweeny.net/?p=1292</id>
+      <title type="html"><![CDATA[First of May]]></title>
+      <summary type="html"><![CDATA[Spring is in the air! (NSFW lyrics)]]></summary>
+      <link rel="alternate" type="text/html" href="http://ssweeny.net/2012/05/first-of-may/" />
+    </activity:object>
+		<link rel="replies" type="text/html" href="http://ssweeny.net/2012/05/first-of-may/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://ssweeny.net/2012/05/first-of-may/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

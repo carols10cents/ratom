@@ -523,7 +523,11 @@ module Atom # :nodoc:
         Feed.load_feed(URI.parse(links.self.href), opts)
       end
     end
-    
+
+    def unique_authors
+      (authors + entries.map(&:authors)).flatten.uniq
+    end
+
     # Iterates over each entry in the feed.
     #
     # ==== Options
